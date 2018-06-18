@@ -6,5 +6,6 @@
     "HEAD": "html"
   },
   "name": "Anne of Green Gables",
-  "type": "text"
+  "type": "text",
+  "book_id": 565
 }
